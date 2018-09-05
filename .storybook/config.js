@@ -5,7 +5,7 @@ import { GlobalStorybookDecorator } from './global-decorator';
 
 setAddon(infoAddon);
 setOptions({
-    name: `RS School`,
+    name: `MorfinBrood portfolio`,
     goFullScreen: false,
     showStoriesPanel: true,
     showAddonPanel: true,

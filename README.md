@@ -1,9 +1,6 @@
 ## Intro
 
-Welcome to RS School UI project
+For start point of project is taken RS School UI project [here](https://github.com/rolling-scopes/rsschool-ui)
 
 ## Documentation
-Documentation is stored in the separate repository [rsschool-docs](https://github.com/rolling-scopes/rsschool-docs)
-
-## Contributing
-You can find Contributing guide [here](https://github.com/rolling-scopes/rsschool-ui/blob/master/CONTRIBUTING.md)
+Documentation is stored in the separate repository [rsschool-docs](https://github.com/Morfinbrood/porfolio-doc)

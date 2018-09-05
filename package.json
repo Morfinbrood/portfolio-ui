@@ -1,9 +1,9 @@
 {
-    "name": "rsschool-ui",
+    "name": "portfolio-ui",
     "version": "0.0.1",
-    "description": "UI for rsschool",
+    "description": "UI for portfolio MorfinBrood",
     "license": "MIT",
-    "repository": "github:rolling-scopes/rsschool-ui",
+    "repository": "github:Morfinbrood/portfolio-ui",
     "browserslist": [
         "chrome 45",
         "chrome 49",
